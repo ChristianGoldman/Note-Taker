@@ -4,7 +4,7 @@ const path = require("path");
 const notes = require("./db/db.json");
 // setting up express app
 const app = express();
-const PORT = process.env.PORT || 3000;
+let PORT = process.env.PORT || 3000;
 
 // sets up the express app to handle data parsing.
 app.use(express.urlencoded({ extended: true }));
