@@ -30,7 +30,7 @@ app.post("/api/notes", function (req, res) {
   let newNote = req.body;
   // creating variable to be used later
   let idUpdate;
-  // setting up if statement if user wishes to update notes
+  // setting up if statement if user wishes to update notes.
   if (req.body.id) {
     // setting variable equal to object id
     idUpdate = req.body.id;
