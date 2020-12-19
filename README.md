@@ -26,9 +26,10 @@
 ![About Me](assets/NoteTaker.png)
 ## Credits ##
 * Cwerness gitlab
+* http://expressjs.com/en/5x/api.html
 * https://www.w3schools.com/js/default.asp
 * Tutor Makism
-* BCA learning assistants
+* BCS learning assistants
 * TA's Paul Hendrickson, Tommy Boone, Jake O'Thoole, Daniel Thao
 ## Link to Heroku App ##
 * [Heroku App](https://www.youtube.com/watch?v=8XeiHgPI8a4&feature=youtu.be)
